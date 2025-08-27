@@ -1,0 +1,3 @@
+[submodule "synthesizer-ui-template"]
+	path = src/synthesizer-ui-template
+	url = https://github.com/p-mcmahon-rmit/synthesizer-ui-template.git
